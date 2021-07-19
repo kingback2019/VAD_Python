@@ -12,11 +12,13 @@
 
 # Step 2. 进入文件run.py 修改
 
+~~~python
+
   ## 修改自己的文件夹路径
   src_dir = r"./切割源文件"
   des_dir = r"./切割后文件"
 
-
+~~~
 # Step 3. 运行run.py 得到输出结果
 ![image](https://user-images.githubusercontent.com/39001883/126146075-b9cce2f1-b3ea-4ada-ac83-a530b5394a69.png)
 
